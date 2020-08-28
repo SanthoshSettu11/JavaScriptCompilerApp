@@ -1,0 +1,12 @@
+.evaluate-result {
+  width: 100%;
+  height: 100%;
+  place-content: start;
+  align-items: start;
+  overflow-wrap: break-word;
+  text-align: left;
+}
+
+.error-class {
+  color: red;
+}
